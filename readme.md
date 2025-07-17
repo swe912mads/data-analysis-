@@ -1,5 +1,6 @@
 <html>
-  <head> example</head>
+  <head> 
   <title>data analysis</title>
   <body> hello! this is swetha</body>
+  </head>
 </html>
